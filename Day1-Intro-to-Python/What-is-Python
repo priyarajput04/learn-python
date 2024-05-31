@@ -1,0 +1,114 @@
+Day 1 - What is Python?
+
+### Introduction to Python
+
+Python is a versatile programming language that doesn’t require you to specify data types for variables. You can use it for many different tasks. It supports both object-oriented programming (using objects and classes) and functional programming (using functions). Python is easy to read and write, and it runs code directly without needing to be compiled first. Guido Van Rossum created Python in 1989.
+Python is a powerful, easy-to-learn programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented programming.
+
+### Installing Python
+
+1. **Download and Install:**
+   - Go to [python.org](https://www.python.org/) and download the latest version of Python.
+   - Follow the instructions to install it on your computer.
+
+2. **Verify Installation:**
+   - Open a command prompt (Windows) or terminal (Mac/Linux).
+   - Type `python --version` or `python3 --version` to check the installed version.
+
+### Writing Your First Python Program
+
+1. **Open a Text Editor:**
+   - Use any text editor (like Notepad, VS Code, or PyCharm).
+
+2. **Write Code:**
+   ```python
+   print("Hello, World!")
+   ```
+
+3. **Save the File:**
+   - Save the file with a `.py` extension, for example, `hello.py`.
+
+4. **Run the Program:**
+   - Open a command prompt or terminal.
+   - Navigate to the directory where you saved your file.
+   - Type `python hello.py` or `python3 hello.py` and press Enter.
+
+### Basic Python Concepts
+
+1. **Variables:**
+   ```python
+   x = 5
+   y = "Hello"
+   print(x)
+   print(y)
+   ```
+
+2. **Data Types:**
+   ```python
+   x = 5            # int
+   y = 3.14         # float
+   z = "Hello"      # str
+   a = True         # bool
+   b = [1, 2, 3]    # list
+   c = (1, 2, 3)    # tuple
+   d = {"key": "value"}  # dict
+   ```
+
+3. **Control Flow:**
+   ```python
+   # If-else
+   x = 10
+   if x > 5:
+       print("x is greater than 5")
+   else:
+       print("x is not greater than 5")
+
+   # For loop
+   for i in range(5):
+       print(i)
+
+   # While loop
+   count = 0
+   while count < 5:
+       print(count)
+       count += 1
+   ```
+
+4. **Functions:**
+   ```python
+   def greet(name):
+       return "Hello, " + name
+
+   print(greet("Alice"))
+   ```
+
+5. **Classes and Objects:**
+   ```python
+   class Person:
+       def __init__(self, name, age):
+           self.name = name
+           self.age = age
+
+       def greet(self):
+           return "Hello, my name is " + self.name
+
+   p = Person("Alice", 30)
+   print(p.greet())
+   ```
+
+### Libraries and Packages
+
+Python has a vast standard library and many external libraries for various tasks. You can install external libraries using pip.
+
+1. **Install a Library:**
+   ```sh
+   pip install requests
+   ```
+
+2. **Use a Library:**
+   ```python
+   import requests
+
+   response = requests.get("https://api.github.com")
+   print(response.status_code)
+   ```
