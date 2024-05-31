@@ -1,0 +1,31 @@
+Day 1 - What is Programming?
+
+What is Language?
+Language is a means of communication used to share ideas and opinions with one another. For example, if we want to teach someone something, we need a language that both people understand.
+
+What is Programming Language?
+Programming is a way for us to give instructions to computers. Computers are actually quite simple—they only do exactly what we tell them to do. That's why we need to learn programming: to instruct computers to handle tasks that involve a lot of calculation, which we are slower at doing ourselves. For example, if I ask you to calculate 2 + 2, you'll quickly say 4. But if I ask you to multiply 21,534,657 by 43,432, you'll probably reach for a calculator or search for an online tool.
+
+Types of Programming Language:
+
+1. Low-level programming language: 
+	A low-level programming language is like speaking directly to the computer in its own language. It's very close to the raw instructions that the computer understands, dealing with things like memory and registers. Languages like Assembly and machine code fall into this category. They're really efficient and quick, but using them requires a deep understanding of how the computer's hardware works.
+
+2. High-level programming language:
+	A high-level programming language is like using everyday language to talk to the computer. It's designed to be easy for humans to understand and use, so programmers can focus on solving problems rather than worrying about the intricate workings of the computer's hardware. Languages such as Python, Java, and C++ fall into this category. While they're simpler to learn and work with, they might not be as fast as low-level languages.
+High-level programming language includes Python, Java, JavaScript, PHP, C#, C++, Objective C, Cobol, Perl, Pascal, LISP, FORTRAN, and Swift programming language.
+A high-level language is further divided into three parts with example -
+i. Procedural Oriented programming language: C, FORTRAN, Basic, Pascal, etc.
+ii. Object-Oriented Programming language: C++, Java, Python, C#, etc.
+iii. Natural language: Part of human languages such as English, Russian, German, and Japanese.
+
+3. Middle-level programming language:
+	A middle-level programming language sits between low-level and high-level languages. Also called an intermediate or pseudo-language, it combines the best of both worlds. It has the ease of use and readability of high-level languages, while still being close enough to machine language to manage hardware efficiently. This makes it user-friendly and versatile. Example: C, C++, language
+Most commonly used Programming Language:
+
+Python        C			    		C++						java
+        C#					HTML			     	XML
+CSS			    		PHP						Ruby
+    JavaScript				Go						R
+MATLAB				Pascal					Perl
+								
