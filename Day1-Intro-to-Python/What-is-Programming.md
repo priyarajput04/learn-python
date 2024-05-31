@@ -1,10 +1,15 @@
 Day 1 - What is Programming?
 
+
 What is Language?
+
 Language is a means of communication used to share ideas and opinions with one another. For example, if we want to teach someone something, we need a language that both people understand.
 
+
 What is Programming Language?
+
 Programming is a way for us to give instructions to computers. Computers are actually quite simple—they only do exactly what we tell them to do. That's why we need to learn programming: to instruct computers to handle tasks that involve a lot of calculation, which we are slower at doing ourselves. For example, if I ask you to calculate 2 + 2, you'll quickly say 4. But if I ask you to multiply 21,534,657 by 43,432, you'll probably reach for a calculator or search for an online tool.
+
 
 Types of Programming Language:
 
@@ -21,6 +26,8 @@ iii. Natural language: Part of human languages such as English, Russian, German,
 
 3. Middle-level programming language:
 	A middle-level programming language sits between low-level and high-level languages. Also called an intermediate or pseudo-language, it combines the best of both worlds. It has the ease of use and readability of high-level languages, while still being close enough to machine language to manage hardware efficiently. This makes it user-friendly and versatile. Example: C, C++, language
+
+
 Most commonly used Programming Language:
 
 Python        C			    		C++						java
